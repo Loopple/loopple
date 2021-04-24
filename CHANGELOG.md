@@ -3,6 +3,7 @@
 - Fix editable content function
 - Fix elements that change structure when moving after drag/drop
 - Add option to move elements below/above
+- General style changes
 
 ## [1.0.1 - Beta] 2021-04-12
 ### Improvements

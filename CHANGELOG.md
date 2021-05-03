@@ -1,3 +1,12 @@
+## [1.0.3 - Beta] 2021-05-03
+### Improvements & Bug Fixing
+- Add social links in the footer
+- Change downloadable file structure
+- Change navbar/sidebar select structure
+- Fix samples page navbar color changing function
+- Add dropdown component
+- General design & bugs issues fixes
+
 ## [1.0.2 - Beta] 2021-04-24
 ### Improvements & Bug Fixing
 - Fix editable content function

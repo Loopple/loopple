@@ -1,3 +1,12 @@
+## [1.0.4 - Beta] 2021-05-13
+### Improvements & Bug Fixing
+- Add preview dashboard option
+- Add one more sidebar variant
+- Add E-Commerce Dashboard example
+- Fix profile card editable text
+- Make sidebar icons and text editable
+- General design & bugs issues fixes
+
 ## [1.0.3 - Beta] 2021-05-03
 ### Improvements & Bug Fixing
 - Add social links in the footer

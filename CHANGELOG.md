@@ -1,3 +1,11 @@
+## [1.0.5 - Beta] 2021-05-23
+### Improvements & Bug Fixing
+- Guest projects now can be saved/previewed
+- Add save code using "CMD/CTRL + S"
+- Add "Tips" popover on the right bottom of the builder
+- Add content in empty cols/rows
+- General design & bugs issues fixes
+
 ## [1.0.4 - Beta] 2021-05-13
 ### Improvements & Bug Fixing
 - Add preview dashboard option

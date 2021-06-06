@@ -1,3 +1,9 @@
+## [1.0.6 - Beta] 2021-06-06
+### Improvements & Bug Fixing
+- Add 3 new components: nav pills, header profile & profile form
+- Code refactoring
+- General design & bugs issues fixes
+
 ## [1.0.5 - Beta] 2021-05-23
 ### Improvements & Bug Fixing
 - Guest projects now can be saved/previewed

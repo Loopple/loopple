@@ -1,3 +1,9 @@
+## [1.0.7 - Beta] 2021-06-13
+- Add Soft UI Dashboard theme
+- Fix samples pages error
+- Homepage design changes
+- General design & bugs issues fixes
+
 ## [1.0.6 - Beta] 2021-06-06
 ### Improvements & Bug Fixing
 - Add 3 new components: nav pills, header profile & profile form

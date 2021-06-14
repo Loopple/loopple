@@ -1,16 +1,16 @@
-## [1.0.7 - Beta] 2021-06-13
+## [0.0.7 - Beta] 2021-06-13
 - Add Soft UI Dashboard theme
 - Fix samples pages error
 - Homepage design changes
 - General design & bugs issues fixes
 
-## [1.0.6 - Beta] 2021-06-06
+## [0.0.6 - Beta] 2021-06-06
 ### Improvements & Bug Fixing
 - Add 3 new components: nav pills, header profile & profile form
 - Code refactoring
 - General design & bugs issues fixes
 
-## [1.0.5 - Beta] 2021-05-23
+## [0.0.5 - Beta] 2021-05-23
 ### Improvements & Bug Fixing
 - Guest projects now can be saved/previewed
 - Add save code using "CMD/CTRL + S"
@@ -18,7 +18,7 @@
 - Add content in empty cols/rows
 - General design & bugs issues fixes
 
-## [1.0.4 - Beta] 2021-05-13
+## [0.0.4 - Beta] 2021-05-13
 ### Improvements & Bug Fixing
 - Add preview dashboard option
 - Add one more sidebar variant
@@ -27,7 +27,7 @@
 - Make sidebar icons and text editable
 - General design & bugs issues fixes
 
-## [1.0.3 - Beta] 2021-05-03
+## [0.0.3 - Beta] 2021-05-03
 ### Improvements & Bug Fixing
 - Add social links in the footer
 - Change downloadable file structure
@@ -36,14 +36,14 @@
 - Add dropdown component
 - General design & bugs issues fixes
 
-## [1.0.2 - Beta] 2021-04-24
+## [0.0.2 - Beta] 2021-04-24
 ### Improvements & Bug Fixing
 - Fix editable content function
 - Fix elements that change structure when moving after drag/drop
 - Add option to move elements below/above
 - General style changes
 
-## [1.0.1 - Beta] 2021-04-12
+## [0.0.1 - Beta] 2021-04-12
 ### Improvements
 - Add option to show grid layout
 - Add samples (wallet dashboard, profile dashboard)
@@ -51,5 +51,5 @@
 - Fix Firefox drag/drop issue
 - General design & bugs issues fixes
 
-## [1.0.0 - Beta] 2021-04-04
+## [0.0.0 - Beta] 2021-04-04
 ### Beta Release

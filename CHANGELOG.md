@@ -1,3 +1,12 @@
+## [0.0.8 - Beta] 2021-06-20
+- Rename the 'structure' tab in 'grid'
+- Add images for grid options
+- Add complex sections (cards section, tables section, charts section, profiles section, projects section)
+- Add Nucleo icons editor
+- Add images for sidebars and navbars
+- General style changes
+- General design & bugs issues fixes
+
 ## [0.0.7 - Beta] 2021-06-13
 - Add Soft UI Dashboard theme
 - Fix samples pages error

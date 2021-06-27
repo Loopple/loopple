@@ -1,3 +1,9 @@
+## [0.0.9 - Beta] 2021-06-27
+- Change projects builder footers
+- Add AdminKit theme
+- General style changes
+- General design & bugs issues fixes
+
 ## [0.0.8 - Beta] 2021-06-20
 - Rename the 'structure' tab in 'grid'
 - Add images for grid options

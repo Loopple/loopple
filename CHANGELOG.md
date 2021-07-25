@@ -1,3 +1,12 @@
+## [0.1.0 - Beta] 2021-07-25
+- Add Multiple Pages option
+- Add option to remove elements using Delete/Backspace button
+- Change sidebar grid sections design
+- Add actions for tables: "add new row" & "add new column"
+- Add Loopple logo
+- General style changes
+- General design & bugs issues fixes
+
 ## [0.0.9 - Beta] 2021-06-27
 - Change projects builder footers
 - Add AdminKit theme

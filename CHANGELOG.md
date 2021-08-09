@@ -1,3 +1,10 @@
+## [0.1.1 - Beta] 2021-08-09
+- Add PRO sections and elements
+- Change components structure in sidebar
+- General style changes
+- General design & bugs issues fixes
+
+
 ## [0.1.0 - Beta] 2021-07-25
 - Add Multiple Pages option
 - Add option to remove elements using Delete/Backspace button

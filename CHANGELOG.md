@@ -1,3 +1,8 @@
+## [0.1.2 - Beta] 2021-08-23
+- Add on-page Code Editor
+- General style changes
+- General design & bugs issues fixes
+
 ## [0.1.1 - Beta] 2021-08-09
 - Add PRO sections and elements
 - Change components structure in sidebar

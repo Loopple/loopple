@@ -1,3 +1,10 @@
+## [0.1.3 - Beta] 2021-08-31
+- Add Google Auth
+- Add Pricing Plan
+- Add revert code option to on-page Code Editor
+- General style changes
+- General design & bugs issues fixes
+
 ## [0.1.2 - Beta] 2021-08-23
 - Add on-page Code Editor
 - General style changes

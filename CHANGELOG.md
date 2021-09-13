@@ -1,3 +1,9 @@
+## [0.1.4 - Beta] 2021-09-13
+- Fix Google Auth issues
+- Adding configuration for kits (Coming soon)
+- General style changes
+- General design & bugs issues fixes
+
 ## [0.1.3 - Beta] 2021-08-31
 - Add Google Auth
 - Add Pricing Plan

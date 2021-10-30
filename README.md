@@ -15,3 +15,7 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 - [Wallet Dashboard](https://www.loopple.com/samples/wallet-dashboard)
 - [Profile Dashboard](https://www.loopple.com/samples/profile-dashboard)
 - [E-Commerce Dashboard](https://www.loopple.com/samples/ecommerce-dashboard)
+
+## How it works
+
+- https://www.youtube.com/watch?v=QQ9uDBK1OqE

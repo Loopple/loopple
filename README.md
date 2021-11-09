@@ -12,9 +12,9 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 
 ## Samples
 
-- [Wallet Dashboard](https://www.loopple.com/samples/wallet-dashboard)
-- [Profile Dashboard](https://www.loopple.com/samples/profile-dashboard)
-- [E-Commerce Dashboard](https://www.loopple.com/samples/ecommerce-dashboard)
+- [Wallet Dashboard](https://www.loopple.com/samples/wallet-dashboard-argon-dashboard)
+- [Profile Dashboard](https://www.loopple.com/samples/profile-dashboard-argon-dashboard)
+- [E-Commerce Dashboard](https://www.loopple.com/samples/ecommerce-dashboard-argon-dashboard)
 
 ## How it works
 

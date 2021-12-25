@@ -1,4 +1,4 @@
-# Loopple - Create Beautiful Dashboards using Drag and Drop
+# Loopple - Drag & Drop Dashboard Builder
 With Loopple, you can build your next Bootstrap Dashboard easily using drag and drop.
 
 ![Loopple Image](https://www.loopple.com/img/editor.png)
@@ -20,3 +20,8 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 ## How it works
 
 - https://www.youtube.com/watch?v=QQ9uDBK1OqE
+
+## Contact
+
+- [Discord](https://discord.gg/mU7wgc3tRN)
+- [Website](https://www.loopple.com/contact)

@@ -7,10 +7,15 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 
 - [Loopple Website](https://www.loopple.com/)
 - [Loopple Blog](https://www.loopple.com/blog)
+
+### Dashboard Builder
 - [Asteria Builder](https://www.loopple.com/theme/asteria-dashboard)
 - [Argon Builder](https://www.loopple.com/theme/argon-dashboard)
 - [Soft UI Builder](https://www.loopple.com/theme/soft-ui-dashboard)
 - [AdminKit Builder](https://www.loopple.com/theme/adminkit)
+
+### Landing Page Builder
+- [Soft UI Landing Page Builder](https://www.loopple.com/theme/soft-ui-design-system)
 
 ## Samples
 

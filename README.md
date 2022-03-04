@@ -15,7 +15,7 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 - [AdminKit Builder](https://www.loopple.com/theme/adminkit)
 
 ### Landing Page Builder
-- [Soft UI Landing Page Builder](https://www.loopple.com/theme/soft-ui-design-system)
+- [Landing Page and Website Builder](https://www.loopple.com/website-builder)
 
 ## Samples
 

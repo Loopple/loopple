@@ -17,6 +17,9 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 ### Landing Page Builder
 - [Landing Page and Website Builder](https://www.loopple.com/website-builder)
 
+## Templates
+- [Responsive Website Templates](https://www.loopple.com/templates)
+
 ## Samples
 
 - [Wallet Dashboard](https://www.loopple.com/samples/wallet-dashboard-argon-dashboard)

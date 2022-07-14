@@ -17,6 +17,10 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 ### Landing Page Builder
 - [Landing Page and Website Builder](https://www.loopple.com/website-builder)
 
+### Tailwind Builder
+- [Tailwind Builder](https://www.loopple.com/tailwind)
+- [Soft UI Dashboard Tailwind](https://www.loopple.com/theme/soft-ui-dashboard-tailwind)
+
 ## Templates
 - [Responsive Website Templates](https://www.loopple.com/templates)
 

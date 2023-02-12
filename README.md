@@ -21,6 +21,10 @@ With Loopple, you can build your next Bootstrap Dashboard easily using drag and 
 - [Tailwind Builder](https://www.loopple.com/tailwind)
 - [Soft UI Dashboard Tailwind](https://www.loopple.com/theme/soft-ui-dashboard-tailwind)
 
+### React Builder
+- [React Builder](https://www.loopple.com/react)
+- [Chakra UI Dashboard](https://www.loopple.com/theme/chakra-ui-dashboard)
+
 ## Templates
 - [Responsive Website Templates](https://www.loopple.com/templates)
 

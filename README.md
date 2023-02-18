@@ -1,5 +1,5 @@
 # Loopple - Drag & Drop Dashboard Builder
-With Loopple, you can build your next Bootstrap Dashboard easily using drag and drop.
+With Loopple, you can build your next Bootstrap, Tailwind or React Dashboard easily using drag and drop.
 
 ![Loopple Image](https://www.loopple.com/img/editor.png)
 

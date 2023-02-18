@@ -13,6 +13,7 @@ With Loopple, you can build your next Bootstrap, Tailwind or React Dashboard eas
 - [Argon Builder](https://www.loopple.com/theme/argon-dashboard)
 - [Soft UI Builder](https://www.loopple.com/theme/soft-ui-dashboard)
 - [AdminKit Builder](https://www.loopple.com/theme/adminkit)
+- [Chakra UI Dashboard Builder](https://www.loopple.com/theme/chakra-ui-dashboard)
 
 ### Landing Page Builder
 - [Landing Page and Website Builder](https://www.loopple.com/website-builder)

@@ -26,6 +26,9 @@ With Loopple, you can build your next Bootstrap, Tailwind or React Dashboard eas
 - [React Builder](https://www.loopple.com/react)
 - [Chakra UI Dashboard](https://www.loopple.com/theme/chakra-ui-dashboard)
 
+## Components
+- [Discover All Loopple Components](https://www.loopple.com/components)
+
 ## Templates
 - [Responsive Website Templates](https://www.loopple.com/templates)
 

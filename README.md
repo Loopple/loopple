@@ -1,5 +1,5 @@
-# Loopple - Drag & Drop Dashboard Builder
-With Loopple, you can build your next Bootstrap, Tailwind or React Dashboard easily using drag and drop.
+# Loopple - Template Builder for Modern Websites & Dashboards
+Loopple helps you build dashboards and website templates faster, significantly cutting down your development time. Our platform empowers you to create templates using popular frameworks such as Bootstrap, Tailwind CSS, and Chakra UI, allowing for even greater flexibility and customization.
 
 ![Loopple Image](https://www.loopple.com/img/editor.png)
 
@@ -21,10 +21,13 @@ With Loopple, you can build your next Bootstrap, Tailwind or React Dashboard eas
 ### Tailwind Builder
 - [Tailwind Builder](https://www.loopple.com/tailwind)
 - [Soft UI Dashboard Tailwind](https://www.loopple.com/theme/soft-ui-dashboard-tailwind)
+- [Riva Dashboard Tailwind](https://www.loopple.com/theme/riva-dashboard-tailwind)
+- [Motion Landig Library Tailwind](https://www.loopple.com/theme/motion-landing-library)
 
 ### React Builder
 - [React Builder](https://www.loopple.com/react)
 - [Chakra UI Dashboard](https://www.loopple.com/theme/chakra-ui-dashboard)
+- [Motion Landing Library React](https://www.loopple.com/theme/motion-landing-library-react)
 
 ## Components
 - [Discover All Loopple Components](https://www.loopple.com/components)

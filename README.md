@@ -17,6 +17,8 @@ Loopple helps you build dashboards and website templates faster, significantly c
 
 ### Landing Page Builder
 - [Landing Page and Website Builder](https://www.loopple.com/website-builder)
+- [Soft UI Design System](https://www.loopple.com/theme/soft-ui-design-system)
+- [Motion Landing Library](https://www.loopple.com/theme/motion-landing-library)
 
 ### Tailwind Builder
 - [Tailwind Builder](https://www.loopple.com/tailwind)
